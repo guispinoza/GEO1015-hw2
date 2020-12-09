@@ -1,9 +1,9 @@
 #-- my_code_hw02.py
 #-- Assignment 02 GEO1015.2020
-#-- [YOUR NAME] 
-#-- [YOUR STUDENT NUMBER] 
-#-- [YOUR NAME] 
-#-- [YOUR STUDENT NUMBER] 
+#-- Ondrej Vesely 
+#-- 5162130 
+#-- Guilherme Spinoza Andreo 
+#-- 5383994 
 
 import sys
 import math
